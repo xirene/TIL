@@ -7,3 +7,6 @@
 ##### Canvas
 ##### Design System(Meterial Design, Ant Design)
 ##### WebPack, Server Side Rendering   
+
+
+JS 비구조화 할당
