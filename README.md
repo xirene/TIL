@@ -10,3 +10,8 @@
 
 
 JS 비구조화 할당
+const array = [1,2]
+const a = array[0]
+const b = array[1]
+===
+const [a,b,] = array
