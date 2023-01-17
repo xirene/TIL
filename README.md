@@ -14,4 +14,4 @@ const array = [1,2]
 const a = array[0]
 const b = array[1]
 은 이렇게 표현 가능
-const [a,b,] = array
+const [a,b] = array
