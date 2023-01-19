@@ -4,7 +4,7 @@
 ##### MobX
 ##### Scss
 ##### TypeScript
-##### Canvas
+##### Canvas, three.js, webGl
 ##### Design System(Meterial Design, Ant Design)
 ##### WebPack, Server Side Rendering   
 
